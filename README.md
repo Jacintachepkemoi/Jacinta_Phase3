@@ -1,5 +1,3 @@
-# Jacinta_Phase3
-
 H1N1 Vaccination Uptake Prediction
 
 ![alt text](image-2.png)
